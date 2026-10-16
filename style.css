@@ -126,3 +126,14 @@ header nav a:hover,
 header nav a:focus-visible {
   text-decoration: underline;
 }
+footer {
+  background-color: #163f32;
+  color: white;
+  text-align: center;
+  padding: 25px 15px;
+  font-size: 14px;
+}
+
+footer p {
+  margin: 5px 0;
+}
