@@ -37,3 +37,12 @@ button {
   padding: 14px 28px;
   font-size: 16px;
 }
+
+.hero-image {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border-radius: 12px;
+  margin: 30px auto;
+}
